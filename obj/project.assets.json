@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\borog\\Documents\\GitHub\\c1\\c1.csproj",
+      "projectUniqueName": "D:\\Учеба\\ДЗ\\c1\\c1.csproj",
       "projectName": "c1",
-      "projectPath": "C:\\Users\\borog\\Documents\\GitHub\\c1\\c1.csproj",
+      "projectPath": "D:\\Учеба\\ДЗ\\c1\\c1.csproj",
       "packagesPath": "C:\\Users\\borog\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\borog\\Documents\\GitHub\\c1\\obj\\",
+      "outputPath": "D:\\Учеба\\ДЗ\\c1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\borog\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.412\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.413\\RuntimeIdentifierGraph.json"
       }
     }
   }
